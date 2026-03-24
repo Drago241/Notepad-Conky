@@ -39,11 +39,15 @@ Configuration Details:
 Setting	Description
 
 Window Type:	
+
 -Set to normal with hints to skip the taskbar and stay below other windows.
-Transparency	
+Transparency
+
 -Uses argb_visual for true transparency and a Lua hook for the background.
 Note Source	
+
 -Executes fold -s -w 40 <path to the notes file> every 5 seconds to update the text.
 
 Background:	
+
 -Rendered with a corner radius of 15 and a black opacity of 80%.
